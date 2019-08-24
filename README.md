@@ -7,6 +7,6 @@
 
   </p>
 
-![frustrated-computer-baboon](https://github.com/davidtheclark/gifs/blob/master/frustrated-computer-baboob.gif)
+![frustrated-computer-baboon](https://github.com/Djubo/Motivation/blob/master/frustrated-computer-baboob.gif)
 
 
