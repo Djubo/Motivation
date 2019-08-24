@@ -6,7 +6,6 @@
 
 
   </p>
-
-![frustrated-computer-baboon](https://github.com/Djubo/Motivation/blob/master/frustrated-computer-baboob.gif)
-
+<a><ifram![frustrated-computer-baboon](https://github.com/Djubo/Motivation/blob/master/frustrated-computer-baboob.gif)/ifram></a>
+<iframe src= "https://github.com/Djubo/Motivation/blob/master/frustrated-computer-baboob.gif" width="180" height="180" frameBorder="0" class="giphy-embed" allowFullScreen>
 
