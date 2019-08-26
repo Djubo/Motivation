@@ -21,6 +21,6 @@
 
   <h2> Projet et Ambitions post formation </h2>    
     <p>
-      Après cette formation, je souhaiterais intégrer une entreprise afin de faire mes armes et consolider maes acquis. J'ai bien conscience que l'experience comme dans beaucoup de métier et primordiale dans cette domaine !  Dans le meilleur des cas cette établissement sera dans le secteur du jeux vidéo ou une branche annexe mais je ne me foramlise pas et restera ouvert a de multiple projets ou sociétés.</p>
+      <a>Après cette formation, je souhaiterais intégrer une entreprise afin de faire mes armes et consolider maes acquis. J'ai bien conscience que l'experience comme dans beaucoup de métier et primordiale dans cette domaine !  Dans le meilleur des cas cette établissement sera dans le secteur du jeux vidéo ou une branche annexe mais je ne me foramlise pas et restera ouvert a de multiple projets ou sociétés.<a></p>
   
   
