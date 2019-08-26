@@ -18,7 +18,7 @@
   </p>
 
   <h2> Projet ou Ambition post formation </h2>
-    Après cette formation, je souhaiterais intégrer une entreprise enfin de faire mes armes et consolider mais acquis. Dans le meilleur des cas cette établissement sera dans le domaine du jeux vidéo ou une branche annexe mais je ne me foramlise pas 
+    Après cette formation, je souhaiterais intégrer une entreprise enfin de faire mes armes et consolider mais acquis. Dans le meilleur des cas cette établissement sera dans le domaine du jeux vidéo ou une branche annexe mais je ne me foramlise pas et restera ouvert a de multiple projet ou société.
   
   
   
