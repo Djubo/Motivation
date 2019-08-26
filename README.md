@@ -10,9 +10,13 @@
    
    <p>
      Tout d abord bien entendu c'est l outil avec lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer.  
-  
+  <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
   <p>
     <iframe width="280" height="140" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
   </p>
 
   <h2> Projet ou Ambition post formation </h2>
+  
+  
+  
+  
