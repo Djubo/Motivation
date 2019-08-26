@@ -12,11 +12,11 @@
  <h2> Ce qui me plait dans le métier de développeur ! </h2>
    
    <p>
-     Tout d abord bien entendu c'est l outil sur lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer. Le fait que cette proffession est en constante évolution de part le fais des avancées technologiques me plait tout particuliérement. Rester connecter au multiple changement de notre monde 
+     Tout d abord bien entendu c'est l outil sur lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer. Le fait que cette proffession est en constante évolution de part le fais des avancées technologiques me plait tout particuliérement. Rester connecter au multiple changement de notre monde mderne. 
    </p>
    <p>
     <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="220" height="130" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <iframe width="210" height="140" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
+    <iframe width="210" height="150" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
    </p>
 
   <h2> Projet et Ambitions post formation </h2>    
