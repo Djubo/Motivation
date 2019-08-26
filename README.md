@@ -16,7 +16,7 @@
     <iframe width="230" height="130" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
    </p>
    
- <head>
+ 
   
   <h2> Projet et Ambitions post formation </h2>    
     <p>
@@ -27,4 +27,4 @@
     <iframe src="https://giphy.com/embed/xUA7b8HhU0vgV28SNa" width="140" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
     </p>
   
-  </head>
+  
