@@ -11,15 +11,14 @@
  <h2> Ce qui me plait dans le metier de développeur ! </h2>
    
    <p>
-     Tout d abord bien entendu c'est l outil avec lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer.  
-  <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="480" height="288" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></p>
-  <p>
-    <iframe width="140" height="70" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
+     Tout d abord bien entendu c'est l outil avec lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer. Mon parcour proffessionnel ma forger un esprit d'équipe et un metal  
+  <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="140" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <iframe width="140" height="70" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
   </p>
 
   <h2> Projet ou Ambition post formation </h2>
     <p>
-      Après cette formation, je souhaiterais intégrer une entreprise enfin de faire mes armes et consolider mais acquis. Dans le meilleur des cas cette établissement sera dans le domaine du jeux vidéo ou une branche annexe mais je ne me foramlise pas et restera ouvert a de multiple projets ou sociétés.
+      Après cette formation, je souhaiterais intégrer une entreprise afin de faire mes armes et consolider mais acquis. J'ai bien conscience que l'experience comme dans beaucoup de métier et primordiale dans cette discipline !  Dans le meilleur des cas cette établissement sera dans le domaine du jeux vidéo ou une branche annexe mais je ne me foramlise pas et restera ouvert a de multiple projets ou sociétés.
     </p>
   
   
