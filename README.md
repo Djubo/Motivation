@@ -8,10 +8,10 @@
   </p>
   
   
- <h2> Ce qui me plait dans le metier de développeur ! </h2>
+ <h2> Ce qui me plait dans le métier de développeur ! </h2>
    
    <p>
-     Tout d abord bien entendu c'est l outil avec lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer. Mon parcour proffessionnel ma forger un esprit d'équipe et un metal  
+     Tout d abord bien entendu c'est l outil sur lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer. Le fait que cette proffession est en constante évolution de part le fais des avancées technologiques.  
   <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="140" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
   <iframe width="140" height="70" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
   </p>
