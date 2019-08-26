@@ -20,8 +20,8 @@
  <head>
   <h2> Projet et Ambitions post formation </h2>    
     <p>
-      Après cette formation, je souhaiterais intégrer une entreprise afin de faire mes armes et de consolider mes acquis. J'ai bien conscience que l'expérience et primordiale dans ce domaine, comme dans beaucoup de métiers ! 
-      Dans le meilleur des cas cet établissement sera dans le secteur du jeu vidéo ou une branche annexe mais je ne me formalise pas et restera ouvert à de multiples projets ou sociétés.
+      Après cette formation, je souhaiterais intégrer une entreprise afin de faire mes armes et de consolider mes acquis. J'ai bien conscience que l'expérience est primordiale dans ce domaine, comme dans beaucoup de métiers ! 
+      Dans le meilleur des cas cet établissement sera dans le secteur du jeu vidéo ou une branche annexe mais je ne me formalise pas et reste ouvert à de multiples projets ou sociétés.
     </p>
     <p>
     <iframe src="https://giphy.com/embed/9RXNbhNlweVmeSJx3h" width="240" height="240" frameBorder="0" class="giphy-embed" allowFullScreen>
