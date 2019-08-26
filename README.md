@@ -14,8 +14,8 @@
      Tout d abord bien entendu c'est l outil sur lequel nous travaillons. La recherche d'informations , de solutions a diverse problematiques a solutionner ou idées a faire évoluer. Le fait que cette proffession est en constante évolution de part le fais des avancées technologiques.
    </p>
    <p>
-    <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="140" height="75" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-    <iframe width="140" height="70" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
+    <iframe src="https://giphy.com/embed/2juvZoQ3oLa4U" width="180" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+    <iframe width="180" height="100" frameBorder="0" class="giphy-embed" src="https://giphy.com/embed/5Zesu5VPNGJlm"  allowFullScreen></iframe>
    </p>
 
   <h2> Projet ou Ambition post formation </h2>
